@@ -9,7 +9,7 @@ This project implements a simple version of the Rock Paper Scissors game in PHP.
 1. Clone the project repository:
 
     ```
-    git clone <repository_url>
+    git clone https://github.com/ArunS-Kumar/rockPaperScissor.git
     ```
 
 2. Navigate to the project directory:
