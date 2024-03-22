@@ -36,7 +36,7 @@ Example:
 
     php index.php 50
 
-## Usage
+## Unit test:
 
 To run the unit tests:
 
