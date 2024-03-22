@@ -15,7 +15,7 @@ This project implements a simple version of the Rock Paper Scissors game in PHP.
 2. Navigate to the project directory:
 
     ```
-    cd project-directory
+    cd rockPaperScissor
     ```
 
 3. Install dependencies using Composer:
